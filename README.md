@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chaudharyyogi@hotmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AkWy6hKVnwWBgvIriQ6pKnv2ae64_w?e=8uGU16](https://drive.google.com/file/d/18J8IIA6bwqxhNNddMq_3hiTc5lMSi7bm/view?usp=sharing](https://1drv.ms/b/s!AkWy6hKVnwWBgvIriQ6pKnv2ae64_w?e=8uGU16)
+- 📄 Know about my experiences <a href="https://1drv.ms/b/s!AkWy6hKVnwWBgvIriQ6pKnv2ae64_w?e=8uGU16" target="blank" alt="https://1drv.ms/b/s!AkWy6hKVnwWBgvIriQ6pKnv2ae64_w?e=8uGU16">Click Here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
