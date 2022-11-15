@@ -21,39 +21,6 @@
 
 
 
-<h2 align="center">📊 My Github Stats<h2>
-<div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Lahari-1996&theme=radical" alt="Lahari Pattanayak" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Lahari-1996&show_icons=true&theme=radical" height="255px" width="47%"/>
-<div>
-  </br>
-  
-  
-  
-  <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahari-1996&theme=radical&langs_count=8" alt="Lahari Pattanayak" height="230px" width="25%" />
-  <img img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lahari-1996&theme=radical" alt="Lahari-1996" height="220px" width="70%"/>
-  
-
-<div>
-
-  
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
