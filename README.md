@@ -21,6 +21,39 @@
 
 
 
+<h2 align="center">📊 My Github Stats<h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chadharyyogi&theme=radical" alt="Yogesh Singh" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=chadharyyogi&show_icons=true&theme=radical" height="255px" width="47%"/>
+<div>
+  </br>
+  
+  
+  
+  <div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadharyyogi&theme=radical&langs_count=8" alt="Yogesh Singh" height="230px" width="25%" />
+  <img img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chadharyyogi&theme=radical" alt="Yogesh Singh" height="220px" width="70%"/>
+  
+
+<div>
+
+  
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
