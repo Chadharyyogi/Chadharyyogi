@@ -5,7 +5,8 @@
 
 - 👯 I’m looking to work on **New Projects**
 
-- 👨‍💻 All of my projects are available at [(https://chadharyyogi.github.io/)]
+- 👨‍💻 All of my projects are available at <a href="https://chadharyyogi.github.io/" target="blank"><img align="center"   height="30" width="40" />My Portfolio</a>
+
 
 - 📫 How to reach me **chaudharyyogi@hotmail.com**
 
