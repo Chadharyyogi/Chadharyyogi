@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **chaudharyyogi@hotmail.com**
 
-- 📄 Know about my experiences <a href="https://1drv.ms/b/s!AkWy6hKVnwWBgvIriQ6pKnv2ae64_w?e=8uGU16" target="blank" alt="https://1drv.ms/b/s!AkWy6hKVnwWBgvIriQ6pKnv2ae64_w?e=8uGU16">Click Here</a>
+- 📄 Know about my experiences <a href="https://1drv.ms/b/s!AkWy6hKVnwWBg7RroIzGcaM2XIqH6A?e=80jYm1" target="blank" alt="https://1drv.ms/b/s!AkWy6hKVnwWBg7RroIzGcaM2XIqH6A?e=80jYm1">Click Here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
